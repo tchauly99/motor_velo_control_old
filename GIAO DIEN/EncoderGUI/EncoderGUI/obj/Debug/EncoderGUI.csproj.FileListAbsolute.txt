@@ -1,0 +1,71 @@
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\bin\Debug\EncoderGUI.exe.config
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\bin\Debug\EncoderGUI.exe
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\bin\Debug\EncoderGUI.pdb
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\obj\Debug\EncoderGUI.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\obj\Debug\EncoderGUI.Form1.resources
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\obj\Debug\EncoderGUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\obj\Debug\EncoderGUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\obj\Debug\EncoderGUI.exe
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\obj\Debug\EncoderGUI.pdb
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\bin\Debug\ZedGraph.xml
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\bk5\emb\GUI\EncoderGUI\obj\Debug\EncoderGUI.csproj.CopyComplete
+D:\BKeL\3nd Junior\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\EncoderGUI.exe.config
+D:\BKeL\3nd Junior\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\obj\Debug\EncoderGUI.exe
+D:\BKeL\3nd Junior\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\obj\Debug\EncoderGUI.pdb
+D:\BKeL\3nd Junior\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\EncoderGUI.exe
+D:\BKeL\3nd Junior\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\EncoderGUI.pdb
+D:\BKeL\3nd Junior\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\ZedGraph.xml
+D:\BKeL\3nd Junior\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\de\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\es\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\fr\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\hu\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\it\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\ja\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\pt\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\ru\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\sk\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\sv\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\tr\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\obj\Debug\EncoderGUI.csprojResolveAssemblyReference.cache
+D:\BKeL\3nd Junior\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\obj\Debug\EncoderGUI.Form1.resources
+D:\BKeL\3nd Junior\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\obj\Debug\EncoderGUI.Properties.Resources.resources
+D:\BKeL\3nd Junior\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\obj\Debug\EncoderGUI.csproj.GenerateResource.Cache
+D:\BKeL\3nd Junior\HK1\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\EncoderGUI.exe.config
+D:\BKeL\3nd Junior\HK1\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\obj\Debug\EncoderGUI.exe
+D:\BKeL\3nd Junior\HK1\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\obj\Debug\EncoderGUI.pdb
+D:\BKeL\3nd Junior\HK1\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\EncoderGUI.exe
+D:\BKeL\3nd Junior\HK1\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\EncoderGUI.pdb
+D:\BKeL\3nd Junior\HK1\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\ZedGraph.xml
+D:\BKeL\3nd Junior\HK1\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\de\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HK1\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\es\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HK1\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\fr\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HK1\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\hu\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HK1\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\it\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HK1\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\ja\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HK1\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\pt\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HK1\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\ru\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HK1\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\sk\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HK1\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\sv\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HK1\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\tr\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HK1\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HK1\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\BKeL\3nd Junior\HK1\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\obj\Debug\EncoderGUI.csprojResolveAssemblyReference.cache
+D:\BKeL\3nd Junior\HK1\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\obj\Debug\EncoderGUI.Form1.resources
+D:\BKeL\3nd Junior\HK1\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\obj\Debug\EncoderGUI.Properties.Resources.resources
+D:\BKeL\3nd Junior\HK1\HTDKN\BAITAP NOP BKEL\STM32\GIAO DIEN\EncoderGUI\EncoderGUI\obj\Debug\EncoderGUI.csproj.GenerateResource.Cache
